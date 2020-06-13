@@ -1,0 +1,55 @@
+body{
+	margin: 0
+}
+.container{
+	width: 1200px;
+	background-color: #feedff;
+	margin: 100px;	
+	padding: 60px;
+
+	}
+h1{
+	font-size: 60px;
+	color: #333333;
+	margin: auto;
+	text-align: justify;
+}
+.img{
+	max-width: 50%; 
+}
+.a{
+	color: orange
+}
+.b{
+	color: skyblue
+}
+.c{
+	color: purple
+}
+.bgcolor{
+	background-color: white
+}
+p{
+	line-height: 1.6;
+	text-transform: capitalize;
+	padding: 30px
+}
+.post{
+	height: 100px;
+
+	}
+	.bgcolor1{
+		color: red
+	}
+
+	}
+	.bgcolor2{
+		color: green
+	}
+
+	}
+	.bgcolor3{
+		color: blue
+	}
+
+}
